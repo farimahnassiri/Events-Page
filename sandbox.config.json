@@ -1,0 +1,9 @@
+{
+    "container": {
+      "node": "20"
+    },
+    "hardReloadOnChange": true,
+    "view": "browser",
+    "template": "node",
+    "port": 3000
+  }
