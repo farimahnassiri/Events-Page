@@ -1,2 +1,43 @@
+# Dependencies
+node_modules
 
-README.md
+# misc
+.DS_Store
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Operating system files
+.DS_Store
+
+# Scripts and utilities
+get_context.py
+GET_CONTEXT.txt
+
+
+# Build
+/build
+/dist
+
+# Dependencies
+node_modules
+
+# Environment (but keep example files)
+.env
+!.env.example
+
+# IDE
+.vscode
+.idea
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
